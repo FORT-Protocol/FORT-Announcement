@@ -16,6 +16,6 @@ When merging, S0 uses the recorded price and S1 uses K to correct
 
 3. The perpetual contract needs to add an impact cost interface, which is planned to be updated to BSC and eth today
 
-FortCore
+FORT Core
 
 2021-12-01
