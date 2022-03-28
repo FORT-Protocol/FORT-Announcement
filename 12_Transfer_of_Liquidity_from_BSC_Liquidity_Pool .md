@@ -11,6 +11,7 @@ We would like to inform you that the part of BSC liquidity pool for DCU swap wil
 We have decided on this liquidity adjustment because we see potential demand for DCU from other chains and we would like to provide tradable liquidity for all DUC users.
 
 Thank you for your support. 
+
 The FORT Team
 
 March 28, 2022
